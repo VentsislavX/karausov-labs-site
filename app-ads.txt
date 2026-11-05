@@ -1,0 +1,4 @@
+# app-ads.txt for karausovlabs.com (Karausov Labs, Ventsislav Karausov): one file for every game on this site.
+# Every game's Marketing URL (developer website) in App Store Connect and Google Play is on karausovlabs.com, so this file covers them all.
+# No lines yet: no game shows ads (Avalanche Kid 1.0 ships without ads). When a game adds an ad network, paste that
+# network's lines here, rebuild with Website/build.sh and publish. See Website/README.md.
